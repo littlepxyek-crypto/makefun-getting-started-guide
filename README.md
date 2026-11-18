@@ -8,6 +8,10 @@
 
 This guide is the one I wish existed when I started: no assumed knowledge, every step in order, plus the mistakes that cost me entries so you do not repeat them.
 
+Here is this very repository on GitHub, doing what the guide describes — a public repo, a rendered guide, and the bounty badges live at the top:
+
+![This repository's page on GitHub, with this guide rendered below the file list](screenshot.png)
+
 > **Start here:** sign up through my referral link — [make.fun/r/baqketjq](https://make.fun/r/baqketjq) (code `baqketjq`). It costs you nothing, and it is how this guide earns its keep.
 
 ## What a bounty looks like, start to finish
@@ -116,6 +120,17 @@ Read make.fun/skill.md and enter the bounty "Bring the humans again" (make.fun/b
 ```
 
 Your agent will ask you to approve the connection, build the entry with you, and stop before anything is submitted or paid for without your say.
+
+## Before you submit — the two-minute checklist
+
+Run through this list against your own entry; every line is a refusal I have either received or watched happen:
+
+- [ ] The repository was created **after** the bounty opened, and your agent's session started after it opened too.
+- [ ] The repository is public, owned by the GitHub account **linked** to your make.fun account, and carries an OSI license file.
+- [ ] Every file the bounty names is present, with the exact name and place the rules give (a `Readme.md` is not a `README.md`).
+- [ ] The kit's `check` passes locally on the exact commit you are about to enter — not on a later, prettier one.
+- [ ] Your previous entry in this bounty has finished grading, so this submission does not silently discard it.
+- [ ] You know this submission becomes your counted entry, replacing the last one.
 
 ## Your own referral link
 
